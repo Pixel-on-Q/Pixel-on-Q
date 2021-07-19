@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Pixel-on-Q/Pixel-on-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there
 
 👨🏻‍💻 Currently working in Flutter/Graphic Designing/UI Designing.
 🔭 I’m currently working to improve my skills in every domain.
